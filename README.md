@@ -18,7 +18,7 @@ Installation
 5. Click **Save & Close**
 
 ## Installation in x64
-1. **Right Click** [`HERE`](https://raw.githubusercontent.com/Nidre/VS2015-Dark-Npp/master/VS2015-Dark.xml) and select **Save As** and save to the browser file dialog as ```%APPDATA%\Notepad++\stylers.xml``` and done. 
+1. Copy this into the cliboard as ```%APPDATA%\Notepad++\stylers.xml``` and **Right Click** [`HERE`](https://raw.githubusercontent.com/Nidre/VS2015-Dark-Npp/master/VS2015-Dark.xml) and select **Save As** and save to the browser file dialog as ```%APPDATA%\Notepad++\stylers.xml``` (you have it, just CONTROL+V) and done. 
 1. If it is running, close ```Notepad++```
 1. Open it.
 1. An there it is, it works with Notepad++ dark style.
