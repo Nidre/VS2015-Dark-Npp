@@ -17,6 +17,10 @@ Installation
 4. Select **VS2015-Dark** from the theme drop-down box.
 5. Click **Save & Close**
 
+## Installation in x64
+1. **Right Click** [`HERE`](https://raw.githubusercontent.com/Nidre/VS2015-Dark-Npp/master/VS2015-Dark.xml) and select **Save As** and save to the browser file dialog as ```%APPDATA%\Notepad++\stylers.xml``` download the theme and save as ```stylers.xml``` 
+1. An there it is, it works with Notepad++ dark styl.e
+
 FAQ
 ----
 **Load stylers.xml failed!**
