@@ -758,7 +758,7 @@ Note:        I don't claim any ownership of this theme. It is merely a replica o
         <WidgetStyle name="Fold" styleID="0" fgColor="A5A5A5" bgColor="1E1E1E" fontStyle="0" fontSize="" />
         <WidgetStyle name="Fold margin" styleID="0" fgColor="1E1E1E" bgColor="1E1E1E" fontStyle="0" fontSize="" />
         <WidgetStyle name="Fold active" styleID="0" fgColor="A5A5A5" bgColor="1E1E1E" fontStyle="0" />
-        <WidgetStyle name="White space symbol" styleID="0" fgColor="808080" bgColor="1E1E1E" fontStyle="0" fontSize="" />
+        <WidgetStyle name="White space symbol" styleID="0" fgColor="144852" bgColor="1E1E1E" fontStyle="0" fontSize="" />
         <WidgetStyle name="Smart HighLighting" styleID="29" bgColor="3687E0" fgColor="B4B4B4" fontStyle="0" fontSize="" />
         <WidgetStyle name="Find Mark Style" styleID="31" bgColor="B55B0B" fgColor="B4B4B4" fontName="" fontSize="" fontStyle="0" />
         <WidgetStyle name="Mark Style 1" styleID="25" bgColor="00FFFF" fontStyle="0" fgColor="E0E2E4" />
